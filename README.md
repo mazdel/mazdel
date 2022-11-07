@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mazdel
 - 👀 I’m interested in PHP, NodeJS, IoT, and Blockchain
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on any project related to PHP or Javascript Languages
+- 💞️ I’m looking to collaborate on any project related to PHP or Javascript related languages
 - 📫 Mail me at delyachmad@gmail.com
 
 <!---
