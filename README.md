@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @mazdel
-- 👀 I’m interested in PHP, NodeJS, IoT, and Blockchain stuffs
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on any project related to PHP or Javascript languages
-- 📫 Feel free to mail me at delyachmad@gmail.com
+### Hi 👋, I'm Dely Achmad
+## A Fullstack Web Developer
 
-<!---
-mazdel/mazdel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am currently freelancing 💻
+- Live in Indonesia, open to work remotely and globally 🌍
+- Interested in Blockchain and IoT kinds of stuff 👀
+
+#### Feel free to contact me at
+[<img align="left" alt="Email" width="20px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"/>][email]
+[<img align="left" alt="Linkedin" width="20px" src="https://github.com/edent/SuperTinyIcons/raw/3f057e5c5d8ae633d48b16a65354e3674dd25e79/images/svg/linkedin.svg"/>][linkedin]
+
+<br/>
+
+#### Tech Stack
+
+<img align="left" alt="Linkedin" width="20px" src="https://github.com/edent/SuperTinyIcons/raw/3f057e5c5d8ae633d48b16a65354e3674dd25e79/images/svg/javascript.svg"/>
+<img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"/>
+<img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss.com/6d6ee63ba619a78955e6e39a46535f80128d839d/public/favicons/android-chrome-256x256.png"/>
+<img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
+<img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/github/explore/8ee96fad80808783c9ce27ca065200aa3c42c9db/topics/codeigniter/codeigniter.png"/>
+<img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+<img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png"/>
+
+
+
+<br/>
+
+[email]: mailto:delyachmad@gmail.com
+[linkedin]: https://www.linkedin.com/in/delyachmad/
