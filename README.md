@@ -3,11 +3,13 @@
 
 - I am currently freelancing 💻
 - Live in Indonesia, open to work remotely and globally 🌍
+- 2024 Goal: Fully understand about TypeScript 🎯
 - Interested in Blockchain and IoT kinds of stuff 👀
 
 #### Feel free to contact me at
 [<img align="left" alt="Email" width="20px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"/>][email]
 [<img align="left" alt="Linkedin" width="20px" src="https://github.com/edent/SuperTinyIcons/raw/3f057e5c5d8ae633d48b16a65354e3674dd25e79/images/svg/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>][telegram]
 
 <br/>
 
@@ -27,3 +29,4 @@
 
 [email]: mailto:delyachmad@gmail.com
 [linkedin]: https://www.linkedin.com/in/delyachmad/
+[telegram]: https://t.me/delyachmad/
